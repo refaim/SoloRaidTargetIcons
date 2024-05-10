@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: SoloRaidTargetIcons
+## Author: Refaim
+## Notes: Allows to use raid target icons through default Blizzard UI while playing solo
+## Version: 1.0
+
+main.lua
