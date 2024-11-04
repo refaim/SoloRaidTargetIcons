@@ -2,6 +2,7 @@
 ## Title: SoloRaidTargetIcons
 ## Author: Refaim
 ## Notes: Allows to use raid target icons through default Blizzard UI while playing solo
+## Notes-ruRU: Позволяет использовать значки целей рейда через стандартный пользовательский интерфейс Blizzard при игре в одиночку.
 ## Version: 1.0
 
 main.lua
