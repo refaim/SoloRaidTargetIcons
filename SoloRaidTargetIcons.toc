@@ -1,8 +1,9 @@
 ## Interface: 11200
 ## Title: SoloRaidTargetIcons
-## Author: Refaim
-## Notes: Allows to use raid target icons through default Blizzard UI while playing solo
-## Notes-ruRU: Позволяет использовать значки целей рейда через стандартный пользовательский интерфейс Blizzard при игре в одиночку.
-## Version: 1.0
+## Notes: Use raid target icons through the default Blizzard UI while playing solo. |cffaaaaaa/srti|r for status and mark-cycling.
+## Author: refaim (original), community extension
+## Version: 1.2-community
+## OptionalDeps: SuperWoW, !!!ClassicAPI, VanillaHelpers, UnitXP_SP3_Addon
+## Notes-Backend: Needs SuperWoW OR the brues-code nampower fork (v4.6.1+) for solo marking to work at all.
 
 main.lua
